@@ -189,7 +189,7 @@ export function UserDashboard({ role }: { role: UserRole }) {
 
 ---
 
-## 4. Declarative Compound DSL (<Switch> & <Case>)
+## 4. Declarative Compound DSL (`<Switch>` & `<Case>`)
 
 If your engineering team loves declarative markup and wants conditions expressed directly within JSX without escaping to helper functions, a lightweight `<Switch>` / `<Case>` compound component is immensely readable.
 
@@ -275,7 +275,7 @@ registry.register("editor", { title: "Content Hub", badgeColor: "blue", componen
 
 ---
 
-## 6. Polymorphic Role Guard Wrapper (<RoleGuard>)
+## 6. Polymorphic Role Guard Wrapper (`<RoleGuard>`)
 
 Rather than treating role selection as an "either/or" monolith, complex dashboards often need granular access gates where certain sections appear for multiple roles.
 
