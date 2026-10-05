@@ -9,9 +9,9 @@ readTime: "6 min read"
 featured: false
 image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80"
 author:
-  name: "Alex Rivera"
-  role: "Staff Frontend Architect"
-  avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80"
+  name: "Safwan Alamgir"
+  role: "Senior Software Engineer & Mentor"
+  avatar: "/safwan.jpg"
 tags:
   - "React"
   - "Conditional Rendering"
@@ -414,6 +414,6 @@ function dashboardReducer(state: DashboardState, action: AuthAction): DashboardS
 | **Registry Pattern** | Micro-frontends & multi-package repos | Moderate | Loose coupling |
 
 > "Code is read ten times more often than it is written. Replacing nested ternaries with explicit role mappings isn't pedantic—it's an investment in your team's velocity and sanity."
-> — **Alex Rivera — Staff Frontend Architect**
+> — **Safwan Alamgir — Senior Software Engineer & Mentor**
 
 Stop settling for nested ternary operators. Next time you build a role-based dashboard, adopt one of these eight patterns. Your teammates, your future self, and your pull request reviewers will thank you.

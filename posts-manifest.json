@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T08:54:16.415Z",
+  "lastUpdated": "2026-10-05T09:01:12.960Z",
   "totalPosts": 10,
   "categories": [
     {
@@ -111,9 +111,9 @@
       "isIllustration": false,
       "illustrationType": null,
       "author": {
-        "name": "Alex Rivera",
-        "role": "Staff Frontend Architect",
-        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80"
+        "name": "Safwan Alamgir",
+        "role": "Senior Software Engineer & Mentor",
+        "avatar": "/safwan.jpg"
       },
       "tags": [
         "React",
