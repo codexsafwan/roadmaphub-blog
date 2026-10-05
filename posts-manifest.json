@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-05T08:10:00.313Z",
-  "totalPosts": 9,
+  "lastUpdated": "2026-10-05T08:41:05.575Z",
+  "totalPosts": 10,
   "categories": [
     {
       "id": "all",
@@ -73,131 +73,6 @@
       "filePath": "posts/features/5-advantages-of-golf-scheduling-software.md"
     },
     {
-      "id": "online-booking-system-how-does-it-work",
-      "slug": "an-online-booking-system-how-does-it-work",
-      "title": "An online booking system: how does it work?",
-      "excerpt": "A comprehensive deep-dive into the architectural mechanics of digital reservations, real-time availability slots, and payment webhooks.",
-      "category": "Features",
-      "categorySlug": "features",
-      "date": "Nov 9, 2021",
-      "readTime": "4 min read",
-      "featured": false,
-      "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=800&q=80",
-      "isIllustration": false,
-      "illustrationType": null,
-      "author": {
-        "name": "Jane Cooper",
-        "role": "Product Operations Lead",
-        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80"
-      },
-      "tags": [
-        "Booking System",
-        "Architecture",
-        "User Experience"
-      ],
-      "filePath": "posts/features/an-online-booking-system-how-does-it-work.md"
-    },
-    {
-      "id": "4-reasons-why-all-golf-professionals-need-software",
-      "slug": "4-reasons-why-all-golf-professionals-need-golf-scheduling-software",
-      "title": "4 reasons why all golf professionals need golf scheduling software",
-      "excerpt": "Discover how leading sports mentors eliminate administrative friction, protect billable teaching hours, and enhance student retention.",
-      "category": "Features",
-      "categorySlug": "features",
-      "date": "Sep 2, 2021",
-      "readTime": "5 min read",
-      "featured": false,
-      "image": null,
-      "isIllustration": true,
-      "illustrationType": "two-persons",
-      "author": {
-        "name": "Guy Hawkins",
-        "role": "Academy Director",
-        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80"
-      },
-      "tags": [
-        "Coaching",
-        "Productivity",
-        "Retention"
-      ],
-      "filePath": "posts/features/4-reasons-why-all-golf-professionals-need-golf-scheduling-software.md"
-    },
-    {
-      "id": "booking-golf-lesson-online-advantages-disadvantages",
-      "slug": "booking-a-golf-lesson-in-an-online-system-the-advantages-and-disadvantages",
-      "title": "Booking a golf lesson in an online system: the advantages and disadvantages",
-      "excerpt": "An honest comparison of traditional phone-and-desk booking versus digital self-service reservation systems for private coaching academies.",
-      "category": "Features",
-      "categorySlug": "features",
-      "date": "Aug 30, 2021",
-      "readTime": "5 min read",
-      "featured": false,
-      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=800&q=80",
-      "isIllustration": false,
-      "illustrationType": null,
-      "author": {
-        "name": "Esther Howard",
-        "role": "Operations Consultant",
-        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80"
-      },
-      "tags": [
-        "Operations",
-        "Strategy",
-        "Analysis"
-      ],
-      "filePath": "posts/features/booking-a-golf-lesson-in-an-online-system-the-advantages-and-disadvantages.md"
-    },
-    {
-      "id": "announcing-roadmap-interactive-lab-2",
-      "slug": "announcing-roadmap-interactive-lab-2-live-mentor-sessions",
-      "title": "Announcing Interactive Lab 2.0: Instant WhatsApp Mentorship & Mock Interviews",
-      "excerpt": "Connect with top 1% engineering leaders from Google, Netflix, and OpenAI with one-click WhatsApp sync and structured student guides.",
-      "category": "Product Updates",
-      "categorySlug": "product-updates",
-      "date": "Oct 1, 2026",
-      "readTime": "4 min read",
-      "featured": false,
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80",
-      "isIllustration": false,
-      "illustrationType": null,
-      "author": {
-        "name": "Safwan Alamgir",
-        "role": "Founder & Lead Architect",
-        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80"
-      },
-      "tags": [
-        "Product Updates",
-        "Mentor Hub",
-        "Announcements"
-      ],
-      "filePath": "posts/product-updates/announcing-roadmap-interactive-lab-2-live-mentor-sessions.md"
-    },
-    {
-      "id": "tech-industry-mentorship-trends-2026",
-      "slug": "why-senior-engineers-are-turning-to-independent-mentorship",
-      "title": "Why Senior Engineers Are Turning to Independent 1-on-1 Mentorship in 2026",
-      "excerpt": "A shift in engineering culture: why staff engineers and tech leads are building independent advisory portfolios outside traditional enterprise training.",
-      "category": "News",
-      "categorySlug": "news",
-      "date": "Sep 24, 2026",
-      "readTime": "5 min read",
-      "featured": false,
-      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80",
-      "isIllustration": false,
-      "illustrationType": null,
-      "author": {
-        "name": "Carla Aminoff",
-        "role": "Principal Architect",
-        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80"
-      },
-      "tags": [
-        "Industry News",
-        "Leadership",
-        "Future of Work"
-      ],
-      "filePath": "posts/news/why-senior-engineers-are-turning-to-independent-mentorship.md"
-    },
-    {
       "id": "system-design-masterclass-distributed-queues",
       "slug": "architecting-high-throughput-distributed-queues-a-deep-dive",
       "title": "Architecting High-Throughput Distributed Queues: A Deep Dive",
@@ -221,6 +96,57 @@
         "Distributed Systems"
       ],
       "filePath": "posts/academy/architecting-high-throughput-distributed-queues-a-deep-dive.md"
+    },
+    {
+      "id": "react-conditional-rendering-stop-nesting-ternaries",
+      "slug": "stop-nesting-ternaries",
+      "title": "Stop Nesting Ternaries: 8 Ways to Choose a Component from a User Role",
+      "excerpt": "One dashboard, eight ways to choose a component from a user role. Pick a role and watch which lines run — eliminating ternary hell in production React apps.",
+      "category": "Academy",
+      "categorySlug": "academy",
+      "date": "Oct 5, 2026",
+      "readTime": "6 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80",
+      "isIllustration": false,
+      "illustrationType": null,
+      "author": {
+        "name": "Alex Rivera",
+        "role": "Staff Frontend Architect",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80"
+      },
+      "tags": [
+        "React",
+        "Conditional Rendering",
+        "Frontend Architecture",
+        "Clean Code"
+      ],
+      "filePath": "posts/academy/stop-nesting-ternaries.md"
+    },
+    {
+      "id": "meet-our-ambassadors-global-leaders",
+      "slug": "meet-our-ambassadors-engineering-leaders-transforming-mentorship",
+      "title": "Meet Our Ambassadors: Engineering Leaders Transforming Tech Mentorship",
+      "excerpt": "A spotlight on our community ambassadors from Google, PayPal, and Meta who are mentoring the next generation of engineers.",
+      "category": "Ambassador",
+      "categorySlug": "ambassador",
+      "date": "Jul 28, 2026",
+      "readTime": "4 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+      "isIllustration": false,
+      "illustrationType": null,
+      "author": {
+        "name": "Livia Bator",
+        "role": "Platform Engineer & Community Lead",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80"
+      },
+      "tags": [
+        "Ambassador",
+        "Community",
+        "Spotlight"
+      ],
+      "filePath": "posts/ambassador/meet-our-ambassadors-engineering-leaders-transforming-mentorship.md"
     },
     {
       "id": "how-to-manage-client-expectations-consulting",
@@ -248,29 +174,129 @@
       "filePath": "posts/client-management/how-to-manage-client-expectations-in-technical-consulting.md"
     },
     {
-      "id": "meet-our-ambassadors-global-leaders",
-      "slug": "meet-our-ambassadors-engineering-leaders-transforming-mentorship",
-      "title": "Meet Our Ambassadors: Engineering Leaders Transforming Tech Mentorship",
-      "excerpt": "A spotlight on our community ambassadors from Google, PayPal, and Meta who are mentoring the next generation of engineers.",
-      "category": "Ambassador",
-      "categorySlug": "ambassador",
-      "date": "Jul 28, 2026",
+      "id": "4-reasons-why-all-golf-professionals-need-software",
+      "slug": "4-reasons-why-all-golf-professionals-need-golf-scheduling-software",
+      "title": "4 reasons why all golf professionals need golf scheduling software",
+      "excerpt": "Discover how leading sports mentors eliminate administrative friction, protect billable teaching hours, and enhance student retention.",
+      "category": "Features",
+      "categorySlug": "features",
+      "date": "Sep 2, 2021",
+      "readTime": "5 min read",
+      "featured": false,
+      "image": null,
+      "isIllustration": true,
+      "illustrationType": "two-persons",
+      "author": {
+        "name": "Guy Hawkins",
+        "role": "Academy Director",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80"
+      },
+      "tags": [
+        "Coaching",
+        "Productivity",
+        "Retention"
+      ],
+      "filePath": "posts/features/4-reasons-why-all-golf-professionals-need-golf-scheduling-software.md"
+    },
+    {
+      "id": "online-booking-system-how-does-it-work",
+      "slug": "an-online-booking-system-how-does-it-work",
+      "title": "An online booking system: how does it work?",
+      "excerpt": "A comprehensive deep-dive into the architectural mechanics of digital reservations, real-time availability slots, and payment webhooks.",
+      "category": "Features",
+      "categorySlug": "features",
+      "date": "Nov 9, 2021",
       "readTime": "4 min read",
       "featured": false,
-      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+      "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=800&q=80",
       "isIllustration": false,
       "illustrationType": null,
       "author": {
-        "name": "Livia Bator",
-        "role": "Platform Engineer & Community Lead",
-        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80"
+        "name": "Jane Cooper",
+        "role": "Product Operations Lead",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80"
       },
       "tags": [
-        "Ambassador",
-        "Community",
-        "Spotlight"
+        "Booking System",
+        "Architecture",
+        "User Experience"
       ],
-      "filePath": "posts/ambassador/meet-our-ambassadors-engineering-leaders-transforming-mentorship.md"
+      "filePath": "posts/features/an-online-booking-system-how-does-it-work.md"
+    },
+    {
+      "id": "booking-golf-lesson-online-advantages-disadvantages",
+      "slug": "booking-a-golf-lesson-in-an-online-system-the-advantages-and-disadvantages",
+      "title": "Booking a golf lesson in an online system: the advantages and disadvantages",
+      "excerpt": "An honest comparison of traditional phone-and-desk booking versus digital self-service reservation systems for private coaching academies.",
+      "category": "Features",
+      "categorySlug": "features",
+      "date": "Aug 30, 2021",
+      "readTime": "5 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=800&q=80",
+      "isIllustration": false,
+      "illustrationType": null,
+      "author": {
+        "name": "Esther Howard",
+        "role": "Operations Consultant",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80"
+      },
+      "tags": [
+        "Operations",
+        "Strategy",
+        "Analysis"
+      ],
+      "filePath": "posts/features/booking-a-golf-lesson-in-an-online-system-the-advantages-and-disadvantages.md"
+    },
+    {
+      "id": "tech-industry-mentorship-trends-2026",
+      "slug": "why-senior-engineers-are-turning-to-independent-mentorship",
+      "title": "Why Senior Engineers Are Turning to Independent 1-on-1 Mentorship in 2026",
+      "excerpt": "A shift in engineering culture: why staff engineers and tech leads are building independent advisory portfolios outside traditional enterprise training.",
+      "category": "News",
+      "categorySlug": "news",
+      "date": "Sep 24, 2026",
+      "readTime": "5 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&q=80",
+      "isIllustration": false,
+      "illustrationType": null,
+      "author": {
+        "name": "Carla Aminoff",
+        "role": "Principal Architect",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80"
+      },
+      "tags": [
+        "Industry News",
+        "Leadership",
+        "Future of Work"
+      ],
+      "filePath": "posts/news/why-senior-engineers-are-turning-to-independent-mentorship.md"
+    },
+    {
+      "id": "announcing-roadmap-interactive-lab-2",
+      "slug": "announcing-roadmap-interactive-lab-2-live-mentor-sessions",
+      "title": "Announcing Interactive Lab 2.0: Instant WhatsApp Mentorship & Mock Interviews",
+      "excerpt": "Connect with top 1% engineering leaders from Google, Netflix, and OpenAI with one-click WhatsApp sync and structured student guides.",
+      "category": "Product Updates",
+      "categorySlug": "product-updates",
+      "date": "Oct 1, 2026",
+      "readTime": "4 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80",
+      "isIllustration": false,
+      "illustrationType": null,
+      "author": {
+        "name": "Safwan Alamgir",
+        "role": "Founder & Lead Architect",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80"
+      },
+      "tags": [
+        "Product Updates",
+        "Mentor Hub",
+        "Announcements"
+      ],
+      "filePath": "posts/product-updates/announcing-roadmap-interactive-lab-2-live-mentor-sessions.md"
     }
   ]
 }
