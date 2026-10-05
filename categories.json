@@ -1,0 +1,44 @@
+[
+  {
+    "id": "all",
+    "name": "All",
+    "slug": "all",
+    "description": "All articles and architecture insights"
+  },
+  {
+    "id": "features",
+    "name": "Features",
+    "slug": "features",
+    "description": "Product capabilities and deep dives into booking architectures"
+  },
+  {
+    "id": "product-updates",
+    "name": "Product Updates",
+    "slug": "product-updates",
+    "description": "Latest features and improvements to Roadmap Hub"
+  },
+  {
+    "id": "news",
+    "name": "News",
+    "slug": "news",
+    "description": "Industry trends, engineering culture, and tech news"
+  },
+  {
+    "id": "academy",
+    "name": "Academy",
+    "slug": "academy",
+    "description": "System design masterclasses and software engineering guides"
+  },
+  {
+    "id": "client-management",
+    "name": "Client Management",
+    "slug": "client-management",
+    "description": "Consulting strategies, communication frameworks, and expectation setting"
+  },
+  {
+    "id": "ambassador",
+    "name": "Ambassador",
+    "slug": "ambassador",
+    "description": "Spotlight on community leaders and engineering mentors"
+  }
+]
